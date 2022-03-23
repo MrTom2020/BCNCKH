@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962938740217",
+    "project_id": "nckh-f8a4d",
+    "storage_bucket": "nckh-f8a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962938740217:android:8a7d74637e5ed9bcf4f128",
+        "android_client_info": {
+          "package_name": "vn.edu.tdmu.lethanhhiep.bcnckh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962938740217-bh7rghgr0u6jkhqv99mhumt68a7d9rqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFBUtKhmxyQLq3_r_0A8ejYcQA4N8eJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962938740217-bh7rghgr0u6jkhqv99mhumt68a7d9rqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
